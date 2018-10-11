@@ -1,3 +1,6 @@
+# NOTICE:
+This fork is a modified version with reworked content and added storyline.
+
 # Overview:
 Space Company is a science-fiction incremental game where you start from humble beginnings on Earth, working your way up to travelling between star systems and building Dyson Spheres and pretty much colonising the entire galaxy(ies?)
 
@@ -29,6 +32,13 @@ v0.5.1
 - Change Icons (white circle with icon inside)
 
 # Changelog:
+
+### v0.5.2
+#### Features (upcoming)
+
+ - Add a storyline (basic at first)
+ - New resources
+ - New tech
 
 ### v0.5.1 (includes all V0.5.0.X)
 ##### Features
